@@ -134,7 +134,7 @@ const educationInfo = {
       schoolName: "Sagar Institute Of Researh & Technology",
       logo: require("./assets/images/sirtLogo.jpg"),
       subHeader: "Betchlor of Technology in Computer Science",
-      duration: "September 2018 - April 2022",
+      duration: "April 2018 - May 2022",
       desc: "Participated in the research of many Web Based Projects And Coding Competetion",
       descBullets: [
         "8.4 CGPA",
