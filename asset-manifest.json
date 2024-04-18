@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/my_portfolio/static/css/main.072c9dda.css",
+    "main.js": "/my_portfolio/static/js/main.a5755b2d.js",
+    "static/css/64.bba8fa55.chunk.css": "/my_portfolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/my_portfolio/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/my_portfolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.bda0d7b7.chunk.js": "/my_portfolio/static/js/769.bda0d7b7.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/my_portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/my_portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/myimg3.1.png": "/my_portfolio/static/media/myimg3.1.b5266fd384bc50950a34.png",
+    "static/media/contactMailDark.svg": "/my_portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/my_portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/skill.svg": "/my_portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/my_portfolio/index.html",
+    "static/media/talksCardBack.svg": "/my_portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.072c9dda.css.map": "/my_portfolio/static/css/main.072c9dda.css.map",
+    "main.a5755b2d.js.map": "/my_portfolio/static/js/main.a5755b2d.js.map",
+    "64.bba8fa55.chunk.css.map": "/my_portfolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/my_portfolio/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/my_portfolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.bda0d7b7.chunk.js.map": "/my_portfolio/static/js/769.bda0d7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.072c9dda.css",
+    "static/js/main.a5755b2d.js"
+  ]
+}
