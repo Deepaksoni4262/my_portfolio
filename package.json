@@ -1,6 +1,6 @@
 {
   "homepage": "https://Deepaksoni4262.github.io/my_portfolio",
-  "name": "developerfolio",
+  "name": "deepaks_portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,6 +19,7 @@
     "react-twitter-embed": "3.0.3",
     "sass": "^1.32.8"
   },
+  
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
